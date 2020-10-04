@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf68190f1d4a46d4e9ad424c41bbcc7f, type: 3}
+  m_Name: Positive 3
+  m_EditorClassIdentifier: 
+  requirement:
+    positivity: 8
+    negativity: -2
+  circleAmount: 24
+  positivity: 0.8
+  backgroundColor: {r: 0.5902855, g: 0.6226415, b: 0.56096476, a: 1}
+  backgroundIntensity: 0.2
