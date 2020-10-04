@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf68190f1d4a46d4e9ad424c41bbcc7f, type: 3}
+  m_Name: Peace
+  m_EditorClassIdentifier: 
+  requirement:
+    positivity: 16
+    negativity: -1
+  circleAmount: 10
+  positivity: 1
+  backgroundColor: {r: 0.8490566, g: 0.8238252, b: 0.76495194, a: 1}
+  backgroundIntensity: 0.03
+  m_VirtuousCircle: {fileID: 3261540985592699250, guid: 705957e96cc19004ba9b6d8da2f9b274,
+    type: 3}
+  m_ViscousCircle: {fileID: 0}
